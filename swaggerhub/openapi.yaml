@@ -15,7 +15,7 @@ externalDocs:
   url: http://swagger.io
 servers:
 - url: https://virtserver.swaggerhub.com/Abacus9/TP-PetStore/1.0.0
-  description: SwaggerHub Mocking API pop
+  description: SwaggerHub Mocking API pop NO
 - url: https://petstore.swagger.io/v2
 tags:
 - name: pet
