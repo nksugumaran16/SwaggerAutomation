@@ -1,7 +1,0 @@
-java -jar openapi-generator-cli-5.2.0.jar generate -g spring -i https://apimanagement.mcd.com/v1/apis/chris.leuty/simple-inventory_api/1.0.0 -c config.json -o spring-boot-codegenerator -a "Authorization:87321f3c-186a-4cc8-8a07-67e88381f539"
-
-
- swaggerhub
-
-
-
