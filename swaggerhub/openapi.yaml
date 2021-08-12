@@ -19,7 +19,7 @@ servers:
 - url: https://petstore.swagger.io/v2
 tags:
 - name: pet
-  description: Everything about your Pets
+  description: Everything about your Pet
   externalDocs:
     description: Find out more
     url: http://swagger.io
