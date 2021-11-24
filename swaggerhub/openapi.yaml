@@ -5,7 +5,7 @@ info:
     \ at\n[http://swagger.io](http://swagger.io) or on\n[irc.freenode.net, #swagger](http://swagger.io/irc/).\n"
   termsOfService: http://swagger.io/terms/
   contact:
-    email: apiteam@swagger.io
+    email: apiteam@swagger.i
   license:
     name: Apache 2.0.1
     url: http://www.apache.org/licenses/LICENSE-2.0.html
@@ -14,7 +14,7 @@ externalDocs:
   description: Find out more about Swagger
   url: http://swagger.io
 servers:
-- url: https://virtserver.swaggerhub.com/Abacus9/TP-PetStore/1.0.0
+- url: https://virtserver.swaggerhub.com/Abacus9/TP-PetStore/3.0.0
   description: SwaggerHub Mocking API
 - url: https://petstore.swagger.io/v2
 tags:
